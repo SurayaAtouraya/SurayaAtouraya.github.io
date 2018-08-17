@@ -1,0 +1,30 @@
+.navbar {
+	height: 10vh;
+	max-height: 10vh;
+}
+
+img#nav-logo {
+	width: 50px;
+	height: 50px;
+}
+
+#hero {
+    position: relative;
+}
+#carousel {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 75vh;
+}
+
+.carousel-inner,
+.carousel-item {
+    height: 100%;
+}
+
+.carousel-item {
+    background: no-repeat center/cover;
+}
